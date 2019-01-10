@@ -21,6 +21,11 @@ body {
 	background: none;
 }
 
+.project {
+	background-color: gray;
+	margin-left: 10px;
+}
+
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
